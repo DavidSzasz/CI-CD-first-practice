@@ -16,7 +16,7 @@ jobs:
     
     defaults:
           run:
-            working-directory: "CI-CD-first-practice"
+            working-directory: "Github Actions Tutorial - CICD"
     steps:
     - uses: actions/checkout@v4
 
